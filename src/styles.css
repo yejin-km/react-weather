@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+}
+
+.App h1 {
+  font-size: 45px;
+}
+
+.Search input {
+  padding: 5px;
+}
