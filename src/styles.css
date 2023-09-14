@@ -8,6 +8,10 @@
   font-size: 45px;
 }
 
+.App a {
+  text-decoration: none;
+}
+
 .Search input {
   padding: 5px;
 }
